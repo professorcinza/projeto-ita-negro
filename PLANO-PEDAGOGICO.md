@@ -37,7 +37,7 @@ comunitário (app + web + sensor) — conversa com segurança, redes e embarcado
 | B1 | Fundamentos da Informática (80) | Ambiente da casa: Linux, VM, CLI, git inicial | 1.2, 2.1 | Máquina pronta + repo `ita-negro` criado |
 | B1 | Design Digital (80) | Identidade visual: logo, paleta, tipografia | 1.1 | Manual de marca v1 |
 | B1–B2 | Técnicas de Programação e Algoritmos (120) | Lógica: fluxograma → código dos módulos-núcleo | 1.1, 2.1, 2.2 | Módulos lógicos testados em mesa + IDE |
-| B2–B3 | Programação Web I (80) | Site institucional do produto (HTML5/CSS/JS, responsivo) | 1.1–1.3 | Site publicado (gh-pages/000webhost) |
+| B2 | Programação Web I (80) | Site institucional do produto (HTML5/CSS/JS, responsivo) | 1.1–1.3 | Site publicado (gh-pages/000webhost) |
 | B3 | Análise e Projeto de Sistemas (80) | Requisitos do produto: entrevista, user story, cascata vs ágil | 1.1, 1.2, 2.2 | Documento de requisitos + escolha do método |
 | B4 | Banco de Dados I (80) | Modelo conceitual/lógico do produto, 1FN–3FN, DDL inicial | 1.1–1.4 | DER + dicionário de dados + SQL Server |
 
